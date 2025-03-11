@@ -17,11 +17,10 @@
 ## ☕ Connect with me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/osmar-enrique-martinez-lopez-b228822b6" target="_blank">
+  <a href="https://www.linkedin.com/in/osmar-enrique-martinez-lopez-b228822b6/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
   </a>
 </p>
-
 ---
 
 ## 🧑‍💻 Tech Stack
