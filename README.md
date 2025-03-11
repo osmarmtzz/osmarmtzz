@@ -4,9 +4,6 @@
   <img src="https://img.shields.io/github/followers/osmarmtzz?style=social" alt="GitHub followers">
   <img src="https://img.shields.io/github/stars/osmarmtzz?style=social" alt="GitHub stars">
 </p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 I am a **Computer Systems Engineer** passionate about **technology, problem-solving, and innovation**.
