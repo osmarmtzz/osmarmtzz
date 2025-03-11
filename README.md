@@ -10,8 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 I am a **Computer Systems Engineer** passionate about **technology, problem-solving, and innovation**.
-- 🌱 Currently learning **AI, Quantum Computing, and Advanced System Architectures**.
-- ⚡ **Fun Facts**: 🍕 Love pizza | 🏉 Enjoy sports | 🎥 Movie enthusiast | 🚞 Travel addict.
+- 🌱 Currently learning **AI ,Cybersecurity, and Advanced System Architectures**.
 
 ---
 
