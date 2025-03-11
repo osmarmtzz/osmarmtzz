@@ -37,12 +37,6 @@
 
 <p align="center">
   <a href="https://github.com/osmarmtzz/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=osmarmtzz&theme=algolia" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/osmarmtzz/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=osmarmtzz&theme=algolia&show_icons=true" alt="GitHub Stats" />
   </a>
 </p>
