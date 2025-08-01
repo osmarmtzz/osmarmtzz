@@ -13,11 +13,11 @@
 ## ☕ Connect with me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/osmar-enrique-martinez-lopez-b228822b6/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram.png" alt="LinkedIn">
-  </a>
   <a href="https://www.instagram.com/x_osmar?igsh=OGVhOGFiOXlzaTB0&utm_source=qr" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/osmar-enrique-martinez-lopez-b228822b6/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn">
   </a>
 </p>
 
