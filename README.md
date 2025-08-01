@@ -70,3 +70,5 @@
 </div>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=osmarmtzz&color=blue)
+![Lines of code](https://img.shields.io/tokei/lines/github/osmarmtzz?color=blue)
