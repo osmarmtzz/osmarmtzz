@@ -47,7 +47,7 @@
   <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
-  <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
+  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP"/>
 </p>
 
 ---
