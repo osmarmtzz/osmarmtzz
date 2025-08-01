@@ -7,8 +7,8 @@
 
 ## 🚀 About Me
 
-- 🎓 I am a **Computer Systems Engineer** passionate about **technology, problem-solving, and innovation**.
-- 🌱 Currently learning **AI, Cybersecurity, and Advanced System Architectures**.
+-  I am a **Computer Systems Engineer** passionate about **technology, problem-solving, and innovation**.
+-  Currently learning **AI, Cybersecurity, and Advanced System Architectures**.
 
 ## ☕ Connect with me  
 
