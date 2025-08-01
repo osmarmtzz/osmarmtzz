@@ -33,9 +33,10 @@
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/r-project.png" alt="R"/>
+  <img src="https://img.icons8.com/?size=100&id=21cojJTVtdmQ&format=png&color=000000" alt="R"/>
+   <img src="https://img.icons8.com/color/48/r-project.png" alt="R (Statistics)"/>
+  <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats  
