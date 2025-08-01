@@ -25,36 +25,46 @@
 
 ## 🧑‍💻 Tech Stack
 
-### 📚 Frameworks & Tools
+---
+
+### 📦 Frameworks & Tools
 <p align="center">
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
   <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/php-logo.png" alt="PHP"/>
 </p>
 
-### 💻 Programming Languages
+---
+
+### 👨‍💻 Programming Languages
 <p align="center">
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R (Statistics)" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
 </p>
+
+---
 
 ### 🛢️ Databases
 <p align="center">
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
 </p>
 
+---
+
 ### ☁️ Cloud & Hosting
 <p align="center">
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
 </p>
+
+---
 
 ---
 
