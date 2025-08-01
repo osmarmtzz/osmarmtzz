@@ -49,4 +49,4 @@
 
 ---
 
-### ⭐ Don't forget to follow me and star my projects! ⭐
+
