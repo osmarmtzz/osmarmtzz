@@ -38,6 +38,8 @@
   <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R (Statistics)" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino"/>
+<img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
+
 </p>
 ---
 
