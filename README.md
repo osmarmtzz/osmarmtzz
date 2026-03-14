@@ -92,8 +92,6 @@ learning : System Design · Machine Learning
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:000000&height=120&section=footer&animation=fadeIn" />
-
 *"Any sufficiently advanced technology is indistinguishable from magic."* — Arthur C. Clarke
 
 </div>
