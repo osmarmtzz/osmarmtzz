@@ -34,46 +34,17 @@ learning : System Design · Machine Learning
 
 <div align="center">
 
-**Frontend**
+### Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,html,css,angular,bootstrap&theme=dark&perline=9" />
 
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=0ea5e9)
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=0ea5e9)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=0ea5e9)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=0ea5e9)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=0ea5e9)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=0ea5e9)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=0ea5e9)
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,java&theme=dark&perline=9" />
 
-**Backend**
+### Database & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,redis,aws,firebase&theme=dark&perline=9" />
 
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=0ea5e9)
-![Express](https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=0ea5e9)
-![PHP](https://img.shields.io/badge/PHP-0a0a0a?style=for-the-badge&logo=php&logoColor=0ea5e9)
-![Laravel](https://img.shields.io/badge/Laravel-0a0a0a?style=for-the-badge&logo=laravel&logoColor=0ea5e9)
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=0ea5e9)
-![REST API](https://img.shields.io/badge/REST_API-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=0ea5e9)
-![JWT](https://img.shields.io/badge/JWT-0a0a0a?style=for-the-badge&logo=jsonwebtokens&logoColor=0ea5e9)
-
-**Data & DevOps**
-
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=0ea5e9)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=0ea5e9)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=0ea5e9)
-![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=for-the-badge&logo=prisma&logoColor=0ea5e9)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=0ea5e9)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=0ea5e9)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a0a0a?style=for-the-badge&logo=githubactions&logoColor=0ea5e9)
-
-**Platforms & Tools**
-
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=0ea5e9)
-![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=0ea5e9)
-![Railway](https://img.shields.io/badge/Railway-0a0a0a?style=for-the-badge&logo=railway&logoColor=0ea5e9)
-![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=for-the-badge&logo=firebase&logoColor=0ea5e9)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=0ea5e9)
-![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=0ea5e9)
-![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=0ea5e9)
-![Arduino](https://img.shields.io/badge/Arduino-0a0a0a?style=for-the-badge&logo=arduino&logoColor=0ea5e9)
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,linux,github,git,githubactions,figma,postman,arduino&theme=dark&perline=9" />
 
 </div>
 
@@ -81,14 +52,12 @@ learning : System Design · Machine Learning
 
 ## 📊 GitHub Stats
 
-<!-- PYRAMID: top row — 1 card centered -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osmarmtzz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0a&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&ring_color=0ea5e9" height="180" />
 </div>
 
 <br/>
 
-<!-- PYRAMID: middle row — 2 cards side by side -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmarmtzz&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=0ea5e9&text_color=ffffff&langs_count=6" height="160" />
   &nbsp;&nbsp;
@@ -97,7 +66,6 @@ learning : System Design · Machine Learning
 
 <br/>
 
-<!-- PYRAMID: bottom row — 1 wide card -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=osmarmtzz&bg_color=0a0a0a&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&area_color=0ea5e9&hide_border=true" width="100%" />
 </div>
@@ -107,6 +75,12 @@ learning : System Design · Machine Learning
 ## 📬 Let's Connect
 
 <div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/osmarmtzz)
+&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/osmarmtzz)
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9)](https://linkedin.com/in/osmarmtzz)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=0ea5e9)](https://github.com/osmarmtzz)
