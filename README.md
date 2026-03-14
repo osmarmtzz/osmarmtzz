@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:0ea5e9&height=200&text=Osmar%20Mart%C3%ADnez&fontColor=ffffff&fontSize=52&fontAlignY=55&animation=fadeIn&desc=Computer%20Systems%20Engineer&descSize=16&descAlignY=75" />
 
 <br/>
 
